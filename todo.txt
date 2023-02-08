@@ -1,2 +1,1 @@
-todo: 3，438， 76， 349， 350 ，242，202，290，205，451， 1, 49,447,454,149,219,217
-Updates were rejected because the tip of your current branch is behind its remote counterpart. Integrate the remote changes
+todo: 3，438， 76， 349， 350 ，242，202，290，205，451，1,447,454,149,219,217
